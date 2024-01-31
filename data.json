@@ -1,108 +1,117 @@
 {
-    "Samsung": [
-      {
-        "model": "Galaxy Buds",
-        "unit": "58 mAh",
-        "enclosure": "252 mAh"
-      },
-      {
-        "model": "Galaxy Buds Live",
-        "unit": "61 mAh",
-        "enclosure": "472 mAh"
-      },
-      {
-        "model": "Galaxy Buds Pro",
-        "unit": "61 mAh",
-        "enclosure": "472 mAh"
-      },
-      {
-        "model": "Galaxy Buds 2",
-        "unit": "61 mAh",
-        "enclosure": "472 mAh"
-      },
-      {
-        "model": "Galaxy Buds 2 Pro",
-        "unit": "61 mAh",
-        "enclosure": "500 mAh"
-      },
-      {
-        "model": "Galaxy Buds+",
-        "unit": "85 mAh",
-        "enclosure": "270 mAh"
-      }
-    ],
-    "Sennheiser": [
-      {
-        "model": "CX 6.00 BT",
-        "unit": "100 mAh"
-      },
-      {
-        "model": "Momentum True Wireless 2",
-        "unit": "70 mAh",
-        "enclosure": "600 mAh"
-      },
-      {
-        "model": "HD 450BT",
-        "unit": "600 mAh"
-      },
-      {
-        "model": "Sennheiser Momentum Wireless M2 AEBT",
-        "model_alias": [
-          "Sennheiser Momentum 2 AEBT",
-          "Momentum M2 AEBT"
-        ],
-        "unit": "600 mAh"
-      },
-      {
-        "model": "Sennheiser Momentum Wireless 3",
-        "model_alias": [
-            "Momentum 3"
-        ],
-        "unit": "600 mAh"
-      },
-      {
-        "model": "Sennheiser Momentum Wireless 4",
-        "model_alias": [
-            "Momentum 4"
-        ],
-        "unit": "600 mAh"
-      }
-    ],
-    "AfterShokz": [
-      {
-        "model": "Aeropex",
-        "unit": "145 mAh"
-      },
-      {
-        "model": "Aeropex Mini",
-        "unit": "145 mAh"
-      },
-      {
-        "model": "Aeropex OpenRun",
-        "unit": "145 mAh"
-      }
-    ],
-    "Bose": [
-      {
-        "model": "Bose Frames Alto",
-        "unit": "220 mAh"
-      },
-      {
-        "model": "Bose Frames Rondo",
-        "unit": "220 mAh"
-      },
-      {
-        "model": "Bose Frames Soprano",
-        "unit": "200 mAh"
-      },
-      {
-        "model": "Bose Frames Tenor",
-        "unit": "200 mAh"
-      },
-      {
-        "model": "Bose Frames Tempo",
-        "unit": "200 mAh"
-      }
-    ]
-  }
-  
+  "brands": [
+    {
+      "brand": "Samsung",
+      "devices": [
+        {
+          "model": "Galaxy Buds",
+          "unit": "58 mAh",
+          "enclosure": "252 mAh"
+        },
+        {
+          "model": "Galaxy Buds Live",
+          "unit": "61 mAh",
+          "enclosure": "472 mAh"
+        },
+        {
+          "model": "Galaxy Buds Pro",
+          "unit": "61 mAh",
+          "enclosure": "472 mAh"
+        },
+        {
+          "model": "Galaxy Buds 2",
+          "unit": "61 mAh",
+          "enclosure": "472 mAh"
+        },
+        {
+          "model": "Galaxy Buds 2 Pro",
+          "unit": "61 mAh",
+          "enclosure": "500 mAh"
+        },
+        {
+          "model": "Galaxy Buds+",
+          "unit": "85 mAh",
+          "enclosure": "270 mAh"
+        }
+      ]
+    },
+    {
+      "brand": "Sennheiser",
+      "devices": [
+        {
+          "model": "CX 6.00 BT",
+          "unit": "100 mAh"
+        },
+        {
+          "model": "Momentum True Wireless 2",
+          "unit": "70 mAh",
+          "enclosure": "600 mAh"
+        },
+        {
+          "model": "HD 450BT",
+          "unit": "600 mAh"
+        },
+        {
+          "model": "Momentum Wireless M2 AEBT",
+          "model_alias": [
+            "Sennheiser Momentum 2 AEBT",
+            "Momentum M2 AEBT"
+          ],
+          "unit": "600 mAh"
+        },
+        {
+          "model": "Momentum Wireless 3",
+          "model_alias": ["Momentum 3"],
+          "unit": "600 mAh"
+        },
+        {
+          "model": "Momentum Wireless 4",
+          "model_alias": ["Momentum 4"],
+          "unit": "600 mAh"
+        }
+      ]
+    },
+    {
+      "brand": "AfterShokz",
+      "devices": [
+        {
+          "model": "Aeropex",
+          "unit": "145 mAh"
+        },
+        {
+          "model": "Aeropex Mini",
+          "unit": "145 mAh"
+        },
+        {
+          "model": "Aeropex OpenRun",
+          "unit": "145 mAh"
+        }
+      ]
+    },
+    {
+      "brand": "Bose",
+      "devices": [
+        {
+          "model": "Frames Alto",
+          "unit": "220 mAh"
+        },
+        {
+          "model": "Frames Rondo",
+          "unit": "220 mAh"
+        },
+        {
+          "model": "Frames Soprano",
+          "unit": "200 mAh"
+        },
+        {
+          "model": "Frames Tenor",
+          "unit": "200 mAh"
+        },
+        {
+          "model": "Frames Tempo",
+          "unit": "200 mAh"
+        }
+      ]
+    }
+  ]
+}

@@ -20,7 +20,8 @@
         {
           "model": "Galaxy Buds 2",
           "unit": "61 mAh",
-          "enclosure": "472 mAh"
+          "enclosure": "472 mAh",
+          "unitTimeHour": "5"
         },
         {
           "model": "Galaxy Buds 2 Pro",
@@ -66,7 +67,8 @@
         {
           "model": "Momentum Wireless 4",
           "modelAlias": ["Momentum 4"],
-          "unit": "600 mAh"
+          "unit": "600 mAh",
+          "unitTimeHour": "60"
         }
       ]
     },

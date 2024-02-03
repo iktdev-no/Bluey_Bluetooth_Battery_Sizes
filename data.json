@@ -106,7 +106,8 @@
         },
         {
           "model": "Frames Tenor",
-          "unit": "200 mAh"
+          "unit": "200 mAh",
+          "unitTimeHour": 5.5
         },
         {
           "model": "Frames Tempo",
